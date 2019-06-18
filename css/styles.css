@@ -1,0 +1,161 @@
+body{
+margin: 0px;
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+h1
+{
+  font-size: 60px;
+  font-family: 'Sacramento', cursive;
+  margin-top: 60px;
+  color: #66BFBF;
+}
+h2{
+font-family: 'Montserrat', sans-serif;
+color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+  text-align: center;
+  color: #66BFBF;
+}
+h5{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+color: #66BFBF;
+}
+p{
+  font-size: 30px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #66BFBF;
+}
+.top-container
+{
+  text-align: center;
+  height: 800px;
+  padding-top: 100px;
+margin: 0px;
+}
+.hello{
+  width: 100%;
+  height: 500px;
+    margin-top:10px;
+  text-align: center;
+}
+.bottom-container{
+  width: 200px;
+  background-color: #7FDBFF;
+  height: 200px;
+  margin-left: 500px;
+}
+.forest-right{
+  position: absolute;
+  height:150px;
+  width: 150px;
+  right: 300px;
+  top: 150px;
+}
+.forest-left{
+  position: absolute;
+  height:150px;
+  width: 150px;
+  left: 300px;
+  top: 150px;
+}
+.pp{
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+
+}
+#123{
+text-align: center;
+}
+#hi{
+  text-align: center;
+  height: 30px;
+  width: 100%;
+  font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-size: 20px;
+}
+.mid1{
+  height: 337.2px;
+  width: 750px;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.head{
+  height: 337.2px;
+  width: 750px;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.wcid{
+  width: 100%;
+  height: 100px;
+  margin-top:100px;
+  text-align: center;
+}
+#wcid{
+  width: 40%;
+}
+#dwyn{
+  width: 50%;
+  height: 150px;
+  margin-top: 500px;
+}
+#break{
+  margin-top: 100px;
+}
+#brk{
+  width: 10%;
+}
+#msg{
+  margin-top: 100px;
+  width: 40%;
+  height: 50px;
+}
+#foot{
+  height: 200px;
+  width: auto;
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+  background-color:#c5ded7;
+  margin-top: 50px;
+  text-decoration: none;
+}
+.foot{
+  height: 10px;
+  display: inline-block;
+  padding: 50px;
+  font-size: 15px;
+  text-decoration: none;
+}
+.foot1{
+  height: 10px;
+  display: block;
+  font-size: 15px;
+  text-decoration: none;
+}
+#mountain{
+  height: 300px;
+  width: 300px;
+  margin-top: 50px;
+}
+.bot{
+  font-size: 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  width: 100%;
+  margin-top: 30px;
+  color: #66BFBF;
+}
+a{
+  text-decoration: none;
+  color: #66BFBF;
+}
